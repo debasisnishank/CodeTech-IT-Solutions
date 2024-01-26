@@ -1,5 +1,5 @@
  # 1. Personal Portfolio
-- See the Live link <a href="https://tangerine-bonbon-7b5af0.netlify.app/" target="_blank">here</a>
+- See the Live link <a href="https://tangerine-bonbon-7b5af0.netlify.app/">here</a>
  # 2. Weather App
 - See the Live link <a href="https://65a4d0aa99d60908cbb26fd5--unique-sfogliatella-5c8278.netlify.app/" target="_blank">here</a>
 # 3. Todo App
